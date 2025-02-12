@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👋🏽 About Me:
 Hi, I'm CJ, an aspiring software engineer and game designer from California.<br>I have been programming for about 6 years and have strong foundations in OOP.<br>Recently I have become interested with Fullstack Web Dev, and concurrent programming. <br>Lets build something amazing!
 
 
